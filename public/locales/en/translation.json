@@ -1,0 +1,28 @@
+{
+  "appHeader": {
+    "brand": "MyPhan",
+    "home": "Home",
+    "project": "Project",
+    "contact": "Contact",
+    "about": "About"
+  },
+  "heroSection": {
+    "exp": "My Skill",
+    "cv": "Get Resume"
+  },
+  "introSection": {
+    "about": "About me",
+    "and": "and",
+    "heading1": "I have a strong interest in Frontend Development and I'm continuously improving my skills.",
+    "heading2": "I am confident working with technologies such as",
+    "heading3": "I’m passionate about building modern and interactive",
+    "heading4": "Web Applications and User Interfaces",
+    "heading5": "I also enjoy applying my knowledge to develop real-world projects using"
+  },
+  "experience": {
+    "title": "Experiences"
+  },
+  "skill": {
+    "title": "Skills"
+  }
+}
