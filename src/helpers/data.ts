@@ -1,5 +1,5 @@
 import reactNativeImg from "assets/project/react-native.png";
-import springRestImg from "assets/project/spring-rest.png";
+import springRestImg from "assets/project/spring-rest.jpeg";
 import anhmybakery from "assets/project/anhmybakery.png";
 
 export const APP_DATA = {
@@ -57,11 +57,11 @@ export const PROJECTS = [
     imgPath: springRestImg,
     title: "Java Spring REST",
     description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "Netflix clone by AM, using React Js + Vite, Authenticatuon firebase, API movie from TMDB",
     githubLink:
-      "https://hoidanit.vn/khoa-hoc/java-spring-rest-ultimate-for-beginners-6631cb577353ab6861b188f6.html",
+      "https://github.com/taikhoanpthan/Netflix-clone-AM",
     demoLink:
-      "https://hoidanit.vn/khoa-hoc/java-spring-rest-ultimate-for-beginners-6631cb577353ab6861b188f6.html",
+      "https://netflix-clone-am.vercel.app/",
   },
 ];
 
